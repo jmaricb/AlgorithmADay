@@ -1,0 +1,2 @@
+Runtime: 19 ms, faster than 95.83% of C++ online submissions for Remove Covered Intervals.
+Memory Usage: 11.2 MB, less than 89.47% of C++ online submissions for Remove Covered Intervals.
